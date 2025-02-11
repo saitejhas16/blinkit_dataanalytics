@@ -6,7 +6,7 @@ This project presents a **comprehensive data analytics dashboard** for **Blinkit
 The dashboard includes key metrics such as **total sales**, **number of outlets**, **sales distribution by outlet size and location type**, and **item-specific performance**. It utilizes various **charts** and **graphs** to illustrate trends and patterns effectively.
 
 ## 🔗 Live Project
-[📊 Click here to view the dashboard](YOUR_PROJECT_LINK)
+[📊 Click here to view the dashboard](https://github.com/saitejhas16/blinkit_dataanalytics/blob/main/blinkit_dashboard_image.jpg)
 
 ---
 
@@ -52,7 +52,7 @@ The dashboard includes key metrics such as **total sales**, **number of outlets*
 
 ### **Step 2: Explore the Visualizations**
 - **Hover** over charts and graphs to see detailed information.
-- Use **filters** (if available) to drill down into specific data segments.
+- Use **filters** to drill down into specific data segments.
 
 ### **Step 3: Analyze the Data**
 - Identify **trends** in **sales**, **outlet growth**, and **item performance**.
