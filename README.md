@@ -66,3 +66,6 @@ The dashboard includes key metrics such as **total sales**, **number of outlets*
 ✅ **Visual Representation** – Simplifies **complex data** through intuitive **visualizations**.
 
 ---
+## 👤 Author
+**L.N. Sai Tejhas**  
+🚀 [LinkedIn](https://www.linkedin.com/in/lnsaitejhas)
